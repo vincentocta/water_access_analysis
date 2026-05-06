@@ -55,4 +55,24 @@ All three datasets were filtered to a common range of year 2003 - 2022 for a con
 - numpy: Colour mapping for visualization
 - matplotlib: For visual graphs.
 
-## Project Structure
+## Dashboard Preview
+<p align="left">
+  <img src="dashboard/National Water Access Overview Dashboard.png" width="700"><br>
+  <em>Page 1: National Water Access Overview Dashboard</em>
+</p>
+
+<p align="left">
+  <img src="dashboard/State Water Access Equity Dashboard.png" width="700"><br>
+  <em>Page 2: State Water Access Equity Dashboard</em>
+</p>
+
+<p align="left">
+  <img src="dashboard/Sectoral Consumption Dashboard.png" width="700"><br>
+  <em>Page 3: Sectoral Consumption Dashboard</em>
+</p>
+
+<p align="left">
+  <a href="reports/National Water Access Dashboard.pdf">
+    <b>View Full Power BI Dashboard (PDF)</b>
+  </a>
+</p>

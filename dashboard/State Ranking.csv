@@ -1,0 +1,15 @@
+state,avg_access,min_access,max_access
+Kelantan,64.13,53.0,73.9
+Sabah,81.22,73.9,89.4
+Sarawak,89.16,77.0,96.0
+Terengganu,93.91,84.8,96.0
+Pahang,96.7,92.8,98.0
+Kedah,98.29,96.0,99.5
+Perlis,99.44,99.0,99.5
+Perak,99.54,99.0,99.8
+Johor,99.76,99.4,99.9
+Selangor,99.78,99.5,99.9
+Negeri Sembilan,99.84,99.5,100.0
+Pulau Pinang,99.85,99.5,99.9
+Melaka,99.95,99.6,100.0
+W.P. Labuan,100.0,100.0,100.0
